@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [HRF Blue Witness](https://github.com/Lambda-School-Labs/human-rights-first-police-ds-a)
 
-- 🌱 I’m currently learning **Tensorflow, AWS, Alembic**
+- 🌱 I’m currently learning **PyTorch, Spark, AWS, Alembic, Tensorflow**
 
 - 🤝 I’m looking for help with [WavePredictor](https://github.com/RowenWitt/OceanWaves/blob/main/README.md)
 
