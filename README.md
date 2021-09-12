@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rowenwitt&label=Profile%20views&color=0e75b6&style=flat" alt="rowenwitt" /> </p>
 
-- 🔭 I’m currently working on [WavePredictor](https://github.com/RowenWitt/OceanWaves/blob/main/README.md)
+- 🔭 I’m currently working on [WavePredictor](https://github.com/RowenWitt/CheckCheck)
 
 - 🌱 I’m currently learning **PyTorch, Tableau, Spark, AWS, Tensorflow (moving beyond Keras), data augmentation through modelling within an ETL pipeline**
 
