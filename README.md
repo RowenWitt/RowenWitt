@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [https://rowenwitt.medium.com](https://rowenwitt.medium.com)
 
-- 📫 How to reach me **rowenwitt@protonmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
