@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [WavePredictor](https://github.com/RowenWitt/CheckCheck)
 
-- 🌱 I’m currently learning **PyTorch, Tableau, Spark, AWS, Tensorflow (moving beyond Keras), data augmentation through modelling within an ETL pipeline**
+- 🌱 I’m currently learning datalake stuff, SWE stuff, how to write less bad code, One day I'll get to **PyTorch, Tableau, Spark, AWS, Tensorflow (moving beyond Keras), data augmentation through modelling within an ETL pipeline**
 
 - 📝 I write articles on [https://rowenwitt.medium.com](https://rowenwitt.medium.com)
 
