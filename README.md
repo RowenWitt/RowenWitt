@@ -4,6 +4,6 @@ Working on maps
 https://rowenwitt.github.io/neural_terrain/NEURAL_TERRAIN_EXAMPLE
 
 - Neural Terrain V2: Demo of smaller models in the browser.  Models are now very small. 
-https://e49de173.neural-terrain-cbt.pages.dev/
+https://d387a997.neural-terrain-cbt.pages.dev/
 
 - 3D Space artillery game: https://37df1d18.orbituary.pages.dev/
