@@ -7,3 +7,5 @@ https://rowenwitt.github.io/neural_terrain/NEURAL_TERRAIN_EXAMPLE
 https://d387a997.neural-terrain-cbt.pages.dev/
 
 - 3D Space artillery game: https://37df1d18.orbituary.pages.dev/
+
+- "Stacks" -> Agent research tracking and accountibility layer: https://github.com/RowenWitt/stacks
